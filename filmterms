@@ -7,6 +7,15 @@ Cinerate is an app created by emavisuals. This SERVICE is provided by emavisuals
 but they might be implemented in future updates of the app. 
 
 
+** Information Collection and Use **
+The app can be used freely without creating a user account, with limited services. In order to use the full functionalities of the app,
+there is the possiblity to create an account. When creating a new account, the following information are required: an email, an username, and a password.
+The email is not visible by other users, whereas the username is VISIBLE BY ANYONE. Do not add your full name, it is not required.
+These information are store on Google Cloud Firestore database. 
+
+
+
+
 ** Links to Other Sites **
 
 This Service contains links to other sites. 
