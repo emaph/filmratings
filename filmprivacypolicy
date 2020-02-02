@@ -15,6 +15,7 @@ The email is not visible by other users, whereas the username is VISIBLE BY ANYO
 These information are store on Google Cloud Firestore database. 
 
 This information is stored only on your phone and on cloud firestore. I do not share them with other third parties. 
+Read the terms and privacy policy of Google Cloud Firestore before creating your account.
 
 If you wish to know which information is stored about you, and if you want to completely delete them from Cloud Firestore,
 send an email to emavisuals@gmail.com
